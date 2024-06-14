@@ -1,0 +1,4 @@
+/home/suellen/Downloads/geant4/share/Geant4-10.7.3/geant4make/teste/CMakeFiles/teste.dir
+/home/suellen/Downloads/geant4/share/Geant4-10.7.3/geant4make/teste/CMakeFiles/Simulation.dir
+/home/suellen/Downloads/geant4/share/Geant4-10.7.3/geant4make/teste/CMakeFiles/edit_cache.dir
+/home/suellen/Downloads/geant4/share/Geant4-10.7.3/geant4make/teste/CMakeFiles/rebuild_cache.dir
